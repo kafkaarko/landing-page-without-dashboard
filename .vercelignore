@@ -1,0 +1,19 @@
+.git/
+.vercel/
+node_modules/
+dist/
+dist-ssr/
+.env*
+.qa/
+.agent/
+.agents/
+.codex/
+.aws/
+.vscode/
+docs/
+design-system/
+*.md
+kopi
+kopi without dashboard*
+scripts/sre/
+scripts/*.py

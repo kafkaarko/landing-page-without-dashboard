@@ -1,0 +1,191 @@
+{
+  "site": {
+    "title": "Kopi Senja kafka | Pelan sedikit. Ngopi dulu.",
+    "description": "Kopi lokal, roti panggang, dan tempat untuk duduk sebentar. Jelajahi konsep kedai kopi fiktif di Bandung.",
+    "url": "https://kopisenja.demo.local",
+    "ogImage": "/images/og-kopi-senja-v2.webp",
+    "favicon": "/favicon.svg",
+    "language": "id",
+    "demo": true,
+    "demoNotice": "Kopi Senja adalah konsep kedai fiktif untuk demo. Alamat, harga, jam buka, dan kontak hanya contoh. Foto merupakan ilustrasi dari Unsplash."
+  },
+  "business": {
+    "name": "Kopi Senja kafka",
+    "tagline": "Kopi, obrolan, dan waktu yang tidak diburu.",
+    "description": "Konsep kedai kopi kecil di Bandung untuk menikmati kopi dan kudapan dengan santai.",
+    "logo": "/images/logo.svg",
+    "phoneWhatsApp": "6281234567890",
+    "whatsappMessage": "Halo, saya ingin bertanya tentang menu Kopi Senja kafka.",
+    "address": "Jl. Gandapura No. 42, Riau, Kota Bandung, Jawa Barat 40113",
+    "addressNote": "Alamat ilustrasi untuk konsep kedai di Bandung.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bandung",
+    "mapsEmbedUrl": "https://www.google.com/maps?q=Bandung&z=13&output=embed&hl=id",
+    "instagramUrl": "",
+    "hours": [
+      {
+        "days": "Senin – Jumat",
+        "time": "08.00 – 22.00 WIB"
+      },
+      {
+        "days": "Sabtu – Minggu",
+        "time": "07.00 – 23.00 WIB"
+      }
+    ]
+  },
+  "theme": {
+    "primary": "#263C31",
+    "brand": "#A15136",
+    "cta": "#263C31",
+    "ctaHover": "#3D5547",
+    "background": "#F6F4ED",
+    "surface": "#EEEAE0",
+    "text": "#263C31",
+    "textMuted": "#686A5F",
+    "border": "#D7D7CB",
+    "onPrimary": "#F6F4ED",
+    "onCta": "#F6F4ED"
+  },
+  "hero": {
+    "badge": "Kedai kopi kecil di Bandung",
+    "heading": "Pelan sedikit.",
+    "headingAccent": "Ngopi dulu.",
+    "subheading": "Ada kopi yang baru diseduh, kudapan hangat, dan tempat untuk duduk lebih lama. Sisihkan sebentar waktumu.",
+    "image": "/images/photos/hero-coffee.webp",
+    "imageAlt": "Foto ilustrasi dua cangkir kopi di atas meja kayu",
+    "imageLabel": "Kopi & waktu luang",
+    "caption": "Seduhan sederhana. Jeda yang menyenangkan.",
+    "ctaPrimary": "Tanya lewat WhatsApp",
+    "ctaSecondary": "Jelajahi menu",
+    "note": "Konsep kedai fiktif \u2022 Foto ilustrasi",
+    "features": [
+      "Biji kopi dari Nusantara",
+      "Kudapan untuk teman ngopi",
+      "Ruang untuk duduk sebentar"
+    ]
+  },
+  "about": {
+    "tagline": "02 / Cerita kedai",
+    "heading": "Tidak semua hal",
+    "headingAccent": "perlu buru-buru.",
+    "description": "Kami membayangkan sebuah kedai yang sederhana: kopi yang enak, meja dekat jendela, dan obrolan yang tidak dipotong waktu. Tempat singgah di antara sibuknya hari, untuk datang sendiri atau bersama teman.",
+    "image": "/images/photos/about-interior.webp",
+    "imageAlt": "Foto ilustrasi interior kafe dengan meja kayu dan cahaya alami",
+    "caption": "Sebuah bayangan tentang ruang singgah di Bandung.",
+    "pillars": [
+      {
+        "title": "Kopi yang akrab",
+        "desc": "Dari kopi susu yang ringan sampai seduhan hitam untuk dinikmati pelan-pelan."
+      },
+      {
+        "title": "Ada teman untuk setiap cangkir",
+        "desc": "Kroisan berlapis mentega atau roti panggang untuk melengkapi jeda."
+      },
+      {
+        "title": "Datang, lalu ambil tempat",
+        "desc": "Bawa buku, buka laptop, atau cukup nikmati waktu tanpa agenda."
+      }
+    ]
+  },
+  "sections": {
+    "about": true,
+    "offerings": true,
+    "location": true,
+    "testimonials": false,
+    "gallery": false,
+    "faq": false
+  },
+  "offerings": [
+    {
+      "id": "kopi-susu-senja",
+      "name": "Kopi Susu Senja",
+      "category": "Kopi susu",
+      "description": "Espresso, susu segar, dan gula aren. Manisnya pas, kopinya tetap terasa.",
+      "price": "Rp22.000",
+      "image": "/images/photos/menu-kopi-susu.webp",
+      "badge": "Pilihan kedai",
+      "group": "Kopi",
+      "imageAlt": "Foto ilustrasi es kopi susu"
+    },
+    {
+      "id": "manual-brew-v60",
+      "name": "Single Origin V60",
+      "category": "Seduhan manual",
+      "description": "Kopi hitam dengan karakter biji musiman. Tanya barista untuk pilihan hari ini.",
+      "price": "Rp26.000",
+      "image": "/images/photos/menu-v60.webp",
+      "badge": null,
+      "group": "Kopi",
+      "imageAlt": "Foto ilustrasi kopi hitam dan perlengkapan seduh"
+    },
+    {
+      "id": "butter-croissant",
+      "name": "Butter Croissant",
+      "category": "Pastry",
+      "description": "Lapisan renyah di luar, lembut di dalam. Pas untuk dicelup ke kopi hangat.",
+      "price": "Rp24.000",
+      "image": "/images/photos/menu-croissant.webp",
+      "badge": null,
+      "group": "Kudapan",
+      "imageAlt": "Foto ilustrasi kroisan dengan lapisan pastry keemasan"
+    },
+    {
+      "id": "roti-panggang-buah",
+      "name": "Roti Panggang Buah",
+      "category": "Roti panggang",
+      "description": "Roti panggang, buah segar, dan sedikit madu. Teman sarapan yang sederhana.",
+      "price": "Rp20.000",
+      "image": "/images/photos/menu-toast.webp",
+      "badge": null,
+      "group": "Kudapan",
+      "imageAlt": "Foto ilustrasi roti panggang dengan buah segar"
+    }
+  ],
+  "testimonials": [],
+  "faq": [],
+  "menu": {
+    "eyebrow": "01 / Dari meja bar",
+    "heading": "Seduhan &",
+    "headingAccent": "teman duduk.",
+    "description": "Tidak perlu menu yang panjang. Cukup beberapa hal yang ingin kamu nikmati lagi besok.",
+    "filterLabel": "Saring pilihan menu",
+    "allLabel": "Semua menu",
+    "inquiryPrefix": "Halo, saya ingin bertanya tentang",
+    "inquiryLabel": "Tanya menu ini",
+    "note": "Harga merupakan contoh untuk demo. Foto menu adalah ilustrasi penyajian."
+  },
+  "contact": {
+    "eyebrow": "03 / Mampir ke sini",
+    "heading": "Satu meja,",
+    "headingAccent": "kami sisakan.",
+    "description": "Mau tanya menu atau rencana datang bersama teman? Sapa kami lewat WhatsApp.",
+    "ctaLabel": "Mulai obrolan",
+    "addressLabel": "Temukan kedai",
+    "mapsLabel": "Jelajahi area Bandung",
+    "mapTitle": "Jelajahi area Bandung",
+    "mapDescription": "Peta area Bandung sebagai ilustrasi lokasi kedai.",
+    "mapLoadLabel": "Tampilkan peta",
+    "mapLoadingLabel": "Memuat peta…",
+    "mapLoadedLabel": "Peta interaktif dimuat.",
+    "mapFrameTitle": "Peta interaktif area Bandung",
+    "hoursLabel": "Jam buka"
+  },
+  "ui": {
+    "skipLink": "Langsung ke konten",
+    "navLabel": "Navigasi utama",
+    "mobileNavLabel": "Navigasi seluler",
+    "nav": {
+      "menu": "Menu",
+      "about": "Cerita kami",
+      "location": "Mampir"
+    },
+    "contactLabel": "Hubungi kami",
+    "openMenu": "Buka navigasi",
+    "closeMenu": "Tutup navigasi",
+    "instagramLabel": "Instagram"
+  },
+  "footer": {
+    "year": 2026,
+    "navLabel": "Navigasi footer",
+    "backToTop": "Kembali ke atas"
+  }
+}
